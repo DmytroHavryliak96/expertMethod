@@ -1,0 +1,6 @@
+D:\Навчання\п'ятий курс\Інновації IT\лабораторна робота 3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\Навчання\п'ятий курс\Інновації IT\лабораторна робота 3\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\Навчання\п'ятий курс\Інновації IT\лабораторна робота 3\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\Навчання\п'ятий курс\Інновації IT\лабораторна робота 3\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+D:\Навчання\п'ятий курс\Інновації IT\лабораторна робота 3\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\Навчання\п'ятий курс\Інновації IT\лабораторна робота 3\Lab3\Lab3\obj\Debug\Lab3.pdb
